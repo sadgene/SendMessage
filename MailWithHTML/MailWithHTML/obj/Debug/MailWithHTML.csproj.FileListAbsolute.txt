@@ -1,0 +1,27 @@
+c:\users\eazvyagin\documents\visual studio 2012\Projects\MailWithHTML\MailWithHTML\bin\Debug\MailWithHTML.exe.config
+c:\users\eazvyagin\documents\visual studio 2012\Projects\MailWithHTML\MailWithHTML\bin\Debug\MailWithHTML.exe
+c:\users\eazvyagin\documents\visual studio 2012\Projects\MailWithHTML\MailWithHTML\bin\Debug\MailWithHTML.pdb
+c:\users\eazvyagin\documents\visual studio 2012\Projects\MailWithHTML\MailWithHTML\obj\Debug\MailWithHTML.csprojResolveAssemblyReference.cache
+c:\users\eazvyagin\documents\visual studio 2012\Projects\MailWithHTML\MailWithHTML\obj\Debug\MailWithHTML.exe
+c:\users\eazvyagin\documents\visual studio 2012\Projects\MailWithHTML\MailWithHTML\obj\Debug\MailWithHTML.pdb
+D:\_Документы профиля\Visual Studio 2012\Projects\MailWithHTML\MailWithHTML\bin\Debug\MailWithHTML.exe.config
+D:\_Документы профиля\Visual Studio 2012\Projects\MailWithHTML\MailWithHTML\bin\Debug\MailWithHTML.exe
+D:\_Документы профиля\Visual Studio 2012\Projects\MailWithHTML\MailWithHTML\bin\Debug\MailWithHTML.pdb
+D:\_Документы профиля\Visual Studio 2012\Projects\MailWithHTML\MailWithHTML\obj\Debug\MailWithHTML.csprojAssemblyReference.cache
+D:\_Документы профиля\Visual Studio 2012\Projects\MailWithHTML\MailWithHTML\obj\Debug\MailWithHTML.csproj.CoreCompileInputs.cache
+D:\_Документы профиля\Visual Studio 2012\Projects\MailWithHTML\MailWithHTML\obj\Debug\MailWithHTML.exe
+D:\_Документы профиля\Visual Studio 2012\Projects\MailWithHTML\MailWithHTML\obj\Debug\MailWithHTML.pdb
+C:\Users\Home\Desktop\Script\MailWithHTML\MailWithHTML\bin\Debug\MailWithHTML.exe.config
+C:\Users\Home\Desktop\Script\MailWithHTML\MailWithHTML\bin\Debug\MailWithHTML.exe
+C:\Users\Home\Desktop\Script\MailWithHTML\MailWithHTML\bin\Debug\MailWithHTML.pdb
+C:\Users\Home\Desktop\Script\MailWithHTML\MailWithHTML\obj\Debug\MailWithHTML.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Script\MailWithHTML\MailWithHTML\obj\Debug\MailWithHTML.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Script\MailWithHTML\MailWithHTML\obj\Debug\MailWithHTML.exe
+C:\Users\Home\Desktop\Script\MailWithHTML\MailWithHTML\obj\Debug\MailWithHTML.pdb
+C:\Users\Home\Desktop\Script\git\MailWithHTML\MailWithHTML\bin\Debug\MailWithHTML.exe.config
+C:\Users\Home\Desktop\Script\git\MailWithHTML\MailWithHTML\bin\Debug\MailWithHTML.exe
+C:\Users\Home\Desktop\Script\git\MailWithHTML\MailWithHTML\bin\Debug\MailWithHTML.pdb
+C:\Users\Home\Desktop\Script\git\MailWithHTML\MailWithHTML\obj\Debug\MailWithHTML.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Script\git\MailWithHTML\MailWithHTML\obj\Debug\MailWithHTML.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Script\git\MailWithHTML\MailWithHTML\obj\Debug\MailWithHTML.exe
+C:\Users\Home\Desktop\Script\git\MailWithHTML\MailWithHTML\obj\Debug\MailWithHTML.pdb

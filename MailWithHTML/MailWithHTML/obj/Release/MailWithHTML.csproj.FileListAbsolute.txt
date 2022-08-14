@@ -1,0 +1,21 @@
+c:\users\eazvyagin\documents\visual studio 2012\Projects\MailWithHTML\MailWithHTML\bin\Release\MailWithHTML.exe.config
+c:\users\eazvyagin\documents\visual studio 2012\Projects\MailWithHTML\MailWithHTML\bin\Release\MailWithHTML.exe
+c:\users\eazvyagin\documents\visual studio 2012\Projects\MailWithHTML\MailWithHTML\bin\Release\MailWithHTML.pdb
+c:\users\eazvyagin\documents\visual studio 2012\Projects\MailWithHTML\MailWithHTML\obj\Release\MailWithHTML.exe
+c:\users\eazvyagin\documents\visual studio 2012\Projects\MailWithHTML\MailWithHTML\obj\Release\MailWithHTML.pdb
+C:\Users\eazvyagin\Documents\Visual Studio 2012\Projects\MailWithHTML\MailWithHTML\obj\Release\MailWithHTML.csprojAssemblyReference.cache
+C:\Users\eazvyagin\Documents\Visual Studio 2012\Projects\MailWithHTML\MailWithHTML\obj\Release\MailWithHTML.csproj.CoreCompileInputs.cache
+E:\_Документы профиля\Visual Studio 2012\Projects\MailWithHTML\MailWithHTML\bin\Release\MailWithHTML.exe.config
+E:\_Документы профиля\Visual Studio 2012\Projects\MailWithHTML\MailWithHTML\bin\Release\MailWithHTML.exe
+E:\_Документы профиля\Visual Studio 2012\Projects\MailWithHTML\MailWithHTML\bin\Release\MailWithHTML.pdb
+E:\_Документы профиля\Visual Studio 2012\Projects\MailWithHTML\MailWithHTML\obj\Release\MailWithHTML.csprojAssemblyReference.cache
+E:\_Документы профиля\Visual Studio 2012\Projects\MailWithHTML\MailWithHTML\obj\Release\MailWithHTML.csproj.CoreCompileInputs.cache
+E:\_Документы профиля\Visual Studio 2012\Projects\MailWithHTML\MailWithHTML\obj\Release\MailWithHTML.exe
+E:\_Документы профиля\Visual Studio 2012\Projects\MailWithHTML\MailWithHTML\obj\Release\MailWithHTML.pdb
+D:\_Документы профиля\Visual Studio 2012\Projects\MailWithHTML\MailWithHTML\bin\Release\MailWithHTML.exe.config
+D:\_Документы профиля\Visual Studio 2012\Projects\MailWithHTML\MailWithHTML\bin\Release\MailWithHTML.exe
+D:\_Документы профиля\Visual Studio 2012\Projects\MailWithHTML\MailWithHTML\bin\Release\MailWithHTML.pdb
+D:\_Документы профиля\Visual Studio 2012\Projects\MailWithHTML\MailWithHTML\obj\Release\MailWithHTML.csprojAssemblyReference.cache
+D:\_Документы профиля\Visual Studio 2012\Projects\MailWithHTML\MailWithHTML\obj\Release\MailWithHTML.csproj.CoreCompileInputs.cache
+D:\_Документы профиля\Visual Studio 2012\Projects\MailWithHTML\MailWithHTML\obj\Release\MailWithHTML.exe
+D:\_Документы профиля\Visual Studio 2012\Projects\MailWithHTML\MailWithHTML\obj\Release\MailWithHTML.pdb
